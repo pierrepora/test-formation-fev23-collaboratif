@@ -3,8 +3,11 @@ blip
 blap
 blup
 blep
-blop ?
 
+blop ?
+blop - ok
+
+j ecris quelque chose ici !
 
 blableubliblobu !
 
