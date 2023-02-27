@@ -18,10 +18,10 @@ plop ?
 
 blop - ok
 
-## autres
+## Phrases
 
 j ecris quelque chose ici !
 
 blableubliblobu !
 
-
+## Autres
